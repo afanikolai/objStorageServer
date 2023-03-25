@@ -1,0 +1,171 @@
+﻿{
+	"document1": {
+		"id": 1,
+		"documentSettings": {
+			"id": 11,
+			"name": "Документ номер один, ФЗ 218.3",
+			"userAttrs": {},
+			"assignee": {
+				"id": 111,
+				"firstName": "Иван",
+				"lastName": "Максимов",
+				"role": {
+					"id": 1111,
+					"name": "Пользователь",
+					"access": "undefined"
+				},
+				"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/106.jpg"
+			},
+			"creationDate": "03/23/2023",
+			"expiryDate": "03/31/2023",
+			"comment": "Всем привет! Мы разработали систему электронной документации для дорогого Дениса Борисовича, который потом выкинет нашу прогу в корзину",
+			"additionalFiles": "undefined"
+		},
+
+	},
+	{
+		"id": 2,
+		"sets": {
+			"id": 22,
+			"name": "Документ номер два, ФЗ 318.3",
+			"userAttrs": {},
+			"assignee": {
+				"id": 222,
+				"firstName": "Иван",
+				"lastName": "Максимов",
+				"role": {
+					"id": 2222,
+					"name": "Пользователь",
+					"access": "undefined"
+				},
+				"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/394.jpg"
+			},
+			"creationDate": "03/23/2023",
+			"expiryDate": "03/31/2023",
+			"comment": "Всем привет! Мы разработали систему электронной документации для дорогого Дениса Борисовича, который потом выкинет нашу прогу в корзину",
+			"additionalFiles": "undefined"
+		}
+
+	},
+	{
+		"id": 3,
+		"sets": {
+			"id": 33,
+			"name": "Документ номер три, ФЗ 418.3",
+			"userAttrs": {
+				"0": {
+					"id": 1122,
+					"tableAttrId": 1188,
+					"name": "Название пользовательского атрибута 1"
+				},
+				"1": {
+					"id": 1122,
+					"tableAttrId": 1189,
+					"name": "Название пользовательского атрибута 2"
+				},
+				"2": {
+					"id": 1122,
+					"tableAttrId": 1190,
+					"name": "Название пользовательского атрибута 3"
+				},
+				"3": {
+					"id": 1122,
+					"tableAttrId": 1191,
+					"name": "Название пользовательского атрибута 4"
+				}
+			},
+			"assignee": {
+				"id": 333,
+				"firstName": "Иван",
+				"lastName": "Максимов",
+				"role": {
+					"id": 3333,
+					"name": "Пользователь",
+					"access": "undefined"
+				},
+				"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/639.jpg"
+			},
+			"creationDate": "03/23/2023",
+			"expiryDate": "03/31/2023",
+			"comment": "Всем привет! Мы разработали систему электронной документации для дорогого Дениса Борисовича, который потом выкинет нашу прогу в корзину",
+			"additionalFiles": "undefined"
+		},
+		{
+			"id": 4,
+			"sets": {
+				"id": 44,
+				"name": "Документ номер четыре, ФЗ 518.3",
+				"userAttrs": {
+					"0": {
+						"id": 1122,
+						"tableAttrId": 1188,
+						"name": "Название пользовательского атрибута 1"
+					},
+					"2": {
+						"id": 1122,
+						"tableAttrId": 1190,
+						"name": "Название пользовательского атрибута 3"
+					},
+					"3": {
+						"id": 1122,
+						"tableAttrId": 1191,
+						"name": "Название пользовательского атрибута 4"
+					}
+				},
+				"assignee": {
+					"id": 444,
+					"firstName": "Иван",
+					"lastName": "Максимов",
+					"role": {
+						"id": 4444,
+						"name": "Пользователь",
+						"access": "undefined"
+					},
+					"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1091.jpg"
+				},
+				"creationDate": "03/23/2023",
+				"expiryDate": "03/31/2023",
+				"comment": "Всем привет! Мы разработали систему электронной документации для дорогого Дениса Борисовича, который потом выкинет нашу прогу в корзину",
+				"additionalFiles": "undefined"
+			}
+
+		},
+		{
+			"id": 5,
+			"sets": {
+				"id": 55,
+				"name": "Документ номер пять, ФЗ 618.3",
+				"userAttrs": {
+					"0": {
+						"id": 1122,
+						"tableAttrId": 1188,
+						"name": "Название пользовательского атрибута 1"
+					},
+					"1": {
+						"id": 1122,
+						"tableAttrId": 1189,
+						"name": "Название пользовательского атрибута 2"
+					}
+				},
+				"assignee": {
+					"id": 555,
+					"firstName": "Иван",
+					"lastName": "Максимов",
+					"role": {
+						"id": 5555,
+						"name": "Пользователь",
+						"access": "undefined"
+					},
+					"avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/420.jpg"
+				},
+				"creationDate": "03/23/2023",
+				"expiryDate": "03/31/2023",
+				"comment": "Всем привет! Мы разработали систему электронной документации для дорогого Дениса Борисовича, который потом выкинет нашу прогу в корзину",
+				"additionalFiles": "undefined"
+			}
+
+		},
+	}
+}
+
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i6joZF45EeJOKh1uXiXnBh+mwcSD4JvITgEtEqWeKBU=",
+  "Source": "objStorageServer",
+  "BasePath": "_content/objStorageServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
