@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Afanikolai\\Desktop\\objStorageServer\\objStorageServer\\objStorageServer.csproj": {}
+    "E:\\Projects\\objStorageServer\\objStorageServer\\objStorageServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Afanikolai\\Desktop\\objStorageServer\\objStorageServer\\objStorageServer.csproj": {
+    "E:\\Projects\\objStorageServer\\objStorageServer\\objStorageServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afanikolai\\Desktop\\objStorageServer\\objStorageServer\\objStorageServer.csproj",
+        "projectUniqueName": "E:\\Projects\\objStorageServer\\objStorageServer\\objStorageServer.csproj",
         "projectName": "objStorageServer",
-        "projectPath": "C:\\Users\\Afanikolai\\Desktop\\objStorageServer\\objStorageServer\\objStorageServer.csproj",
-        "packagesPath": "C:\\Users\\Afanikolai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afanikolai\\Desktop\\objStorageServer\\objStorageServer\\obj\\",
+        "projectPath": "E:\\Projects\\objStorageServer\\objStorageServer\\objStorageServer.csproj",
+        "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\objStorageServer\\objStorageServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Afanikolai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,6 +71,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[4.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
